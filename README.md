@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Moazzam Hussain Qadri
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning HTML, CSS,JAVASCRIPT, C++
+- 🌱 I’m currently learning HTML, CSS, JavaScipt, C++
 - 💞️ I’m looking to collaborate on innovative, scalable solutions and open-source projects
 - 📫 How to reach me: Feel free to connect via [moazzamqadri03@gmail.com] or drop a message
 - 😄 Pronouns: HE/HIM
