@@ -1,89 +1,115 @@
-Stil<div align="center">
-  
-# Hi 👋, I'm Moazzam Hussain Qadri
+<div align="center">
 
-### A passionate Full Stack Developer from Kashmir
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;B.Tech+CSE+Student;Python+%7C+JavaScript+%7C+React;Always+Learning+New+Things" />
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Moazzam%20Hussain%20Qadri&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CSE%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descColor=a8c8e8&animation=fadeIn" width="100%"/>
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<div align="center">
 
-### 👨‍💻 About Me
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Learning+%E2%80%A2+Coding+%E2%80%A2+Building+%E2%80%A2+Growing;Full-Stack+Development+%7C+Python+%7C+Java;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-- 🎓 B.Tech CSE Student
-- 🌱 Currently learning **React, Node.js, APIs & DSA**
-- 💬 Ask me about **Python, JavaScript, HTML, CSS**
-- ⚡ Fun fact: **I love building real-world projects**
-- 🚀 Goal: Become a professional Full Stack Engineer
+</div>
 
 ---
 
-### 🌐 Connect with Me
+## 🧑‍💻 About Me
+
+> *"Code is the closest thing we have to a superpower."*
+
+- 🎓 **CSE Student** — passionate about writing code that actually matters
+- 🔭 Currently sharpening: **Full-Stack Web Dev**, **Python**, **DSA**, and **OOP**
+- 🌱 Believer in learning in public and building in the open
+- 🤝 Open to collaborating on learning projects and coding challenges
+- ⚡ Fun fact: I debug better with coffee ☕
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Moazzamqadri03&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&border_radius=12)
+
+</div>
+
+---
+
+## 🗓️ Monthly Contribution Activity
+
+<div align="center">
+
+<!-- Activity Graph — shows daily contributions over last few months -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Moazzamqadri03&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="100%"/>
+
+</div>
+
+---
+
+## 💡 Skills & Technologies
+
+### 🔤 Languages
 
 <p align="left">
-<a href="https://github.com/Moazzamqadri03" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+</p>
+
+### 🌐 Web & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
 
-### 🛠 Languages and Tools
+## 🌱 Currently Learning
 
-<p align="left"> 
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=js" />
-<img src="https://skillicons.dev/icons?i=cpp" />
-<img src="https://skillicons.dev/icons?i=c" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-</p>
+| Area | Focus |
+|------|-------|
+| 🐍 Python | Advanced libraries, scripting, automation |
+| 🌐 Web Dev | Full-Stack apps, responsive UI, REST APIs |
+| 🧠 DSA | Algorithms, data structures, problem patterns |
+| 🔁 Git | Workflows, branching strategies, open source |
+| ☕ Java | OOP principles, design patterns |
 
 ---
 
-### 📊 GitHub Stats
+## 📈 Profile Insights
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Moazzamqadri03&show_icons=true&theme=tokyonight" />
+<!-- Profile views counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=Moazzamqadri03&color=58a6ff&style=for-the-badge&label=Profile+Views)
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Moazzamqadri03&theme=tokyonight" />
+<!-- Followers badge -->
+[![GitHub followers](https://img.shields.io/github/followers/Moazzamqadri03?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github)](https://github.com/Moazzamqadri03)
+
+<!-- Stars badge -->
+[![GitHub User's stars](https://img.shields.io/github/stars/Moazzamqadri03?style=for-the-badge&color=ffd700&labelColor=0d1117&logo=github)](https://github.com/Moazzamqadri03)
 
 </div>
 
 ---
 
-### 📈 Contribution Graph
-
-[![Moazzam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Moazzamqadri03&theme=tokyo-night)](https://github.com/Moazzamqadri03)
-
----
-
-### 🏆 GitHub Trophies
+## 📫 Connect with Me
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Moazzamqadri03&theme=tokyonight&row=1&column=6" />
+[![GitHub](https://img.shields.io/badge/GitHub-Moazzamqadri03-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Moazzamqadri03)
 
-</div>
-
----
-
-### ✨ Profile Views
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=Moazzamqadri03&label=Profile%20Views&color=0e75b6&style=flat)
+*Feel free to reach out — always up for collaborating, learning, or just geeking out over code.*
 
 </div>
 
@@ -91,6 +117,6 @@ Stil<div align="center">
 
 <div align="center">
 
-### 🚀 “Code. Learn. Build. Repeat.”
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
 </div>
